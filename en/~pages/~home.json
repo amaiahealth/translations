@@ -1,0 +1,49 @@
+{
+  "seo": {
+    "title": "Tiuri Health",
+    "description": "",
+    "keywords": ""
+  },
+  "hero": {
+    "title": "Revolutionizing Health Technology",
+    "subtitle": "Empowering individuals with cutting-edge scanning solutions for preventive healthcare.",
+    "cta": "Get Started"
+  },
+  "logoGrid": {
+    "title": "Trusted by leading clinics and partners",
+    "logos": [{ "alt": "Partner 1" }, { "alt": "Partner 2" }]
+  },
+  "sections": [
+    {
+      "title": "Vroege opsporing, gemoedsrust",
+      "text": "Onze technologie helpt je bij het vroegtijdig opsporen van gezondheidsrisico's zodat je gemoedsrust hebt."
+    },
+    {
+      "title": "Voor jou",
+      "text": "Persoonlijke inzichten en scanresultaten op maat van jouw lichaam en gezondheid."
+    },
+    {
+      "title": "Onze locaties",
+      "text": "Bezoek een van onze scanpunten verspreid door het land voor jouw 360 scan ervaring."
+    }
+  ],
+  "testimonials": {
+    "title": "What our clients say",
+    "items": [
+      {
+        "quote": "The 360 Scan has completely changed how we approach preventive care.",
+        "author": "Dr. Sarah Johnson",
+        "role": "Wellness Clinic Director"
+      },
+      {
+        "quote": "Fast, reliable, and non-invasive. Our patients love it.",
+        "author": "Dr. Mark Evans",
+        "role": "Healthcare Practitioner"
+      }
+    ]
+  },
+  "cta": {
+    "title": "Join the future of preventive healthcare today",
+    "button": "Book a Consultation"
+  }
+}

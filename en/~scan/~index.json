@@ -1,0 +1,16 @@
+{
+  "seo": {
+    "title": "Book your next scan",
+    "description": "",
+    "keywords": ""
+  },
+  "hero": {
+    "title": "360 Scan Technology",
+    "subtitle": "Discover a new era of preventive healthcare with our advanced scanning system.",
+    "cta": "Request a Demo"
+  },
+  "cta": {
+    "title": "Ready to experience the 360 Scan?",
+    "button": "Book Your Scan"
+  }
+}
